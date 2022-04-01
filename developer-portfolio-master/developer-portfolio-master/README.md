@@ -10,7 +10,7 @@
 
 ## Table of Contents :scroll:
 - [Sections](#sections-bookmark)
-- [Demo](#demo-movie_camera)
+- 
 - [Themes](#themes-art)
 - [Installation](#installation-arrow_down)
 - [Getting Started](#getting-started-dart)
@@ -45,7 +45,7 @@
 
 # Demo :movie_camera:
 ![](https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/demo.gif)
-## View live demo [here](https://dev-portfolio-template.netlify.app/).
+## View live demo [here](https://avinash-chengot.netlify.app/).
 
 <br />
 
