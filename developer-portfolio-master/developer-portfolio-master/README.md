@@ -50,27 +50,7 @@
 <br />
 
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/pinkThemeLight.png" width="48%" alt="">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/pinkThemeDark.png" width="48%" alt="">
-</div>
 
-<br />
-
-### Yellow :yellow_circle:
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/yellowThemeLight.png" width="48%" alt="">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/yellowThemeDark.png" width="48%" alt="">
-</div>
-
-<br /> <br />
-
-# Installation :arrow_down:
-### You will need to download Git and Node to run this project
-
-- [Git](https://git-scm.com/downloads)
-- [Node](https://nodejs.org/en/download/)
 
 ## Also check [this](https://reactjs.org/docs/create-a-new-react-app.html) out if you are new to react.
 
@@ -443,14 +423,4 @@ export const educationData = [
 
 <br />
 
-# Contributors :man_technologist::woman_technologist:
 
-<div>
-    <table>
-        <tr>
-            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://hhhrrrttt222111.web.app/static/media/dp.5f7c380f.jpeg" width="135px;" height="135px;" alt=""/><br /><b>Hemanth R</b></a></td>
-            <td align="center"><a href="https://github.com/ShimilSAbraham"><img src="https://raw.githubusercontent.com/ShimilSAbraham/Blender_Works/main/profile_shimil.jpeg" width="135px;" height="135px; alt=""/><br /><b>Shimil S Abraham</b></a></td>
-            <td align="center"><a href="https://github.com/Gayathry17"><img src="https://iamgayathrysuresh.web.app/static/media/gAvatar.37897d13.jpeg" width="135px;" height="135px; alt=""/><br /><b>Gayathry S</b></a></td>
-        </tr>
-    </table>
-</div>
